@@ -6,7 +6,6 @@ Express js practice with building a users api
 ## Install
 
     yarn
-    yarn i
 
 ## Run the app
 
